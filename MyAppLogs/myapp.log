@@ -20473,3 +20473,46 @@ Unconditional classes:
 2018-12-13 15:32:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
 2018-12-13 15:33:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708028095 sessioncount 0
 2018-12-13 15:33:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:34:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708088112 sessioncount 0
+2018-12-13 15:34:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:35:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708148114 sessioncount 0
+2018-12-13 15:35:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:36:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708208144 sessioncount 0
+2018-12-13 15:36:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:37:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708268157 sessioncount 0
+2018-12-13 15:37:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:38:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708328214 sessioncount 0
+2018-12-13 15:38:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:39:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708388233 sessioncount 0
+2018-12-13 15:39:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2018-12-13 15:40:44 [RMI Scheduler(0)] DEBUG sun.rmi.dgc - RMI Scheduler(0): b4f009a8897e3ce7:564b47ff:167a67bda88:-7ffe
+2018-12-13 15:40:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708448250 sessioncount 0
+2018-12-13 15:40:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:41:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708508262 sessioncount 0
+2018-12-13 15:41:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2018-12-13 15:42:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708568265 sessioncount 0
+2018-12-13 15:42:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:43:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708628268 sessioncount 0
+2018-12-13 15:43:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:44:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708688270 sessioncount 0
+2018-12-13 15:44:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:45:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708748273 sessioncount 0
+2018-12-13 15:45:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 15:46:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708808274 sessioncount 0
+2018-12-13 15:46:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2018-12-13 15:47:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544708868277 sessioncount 0
+2018-12-13 15:47:48 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 17:23:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714585473 sessioncount 0
+2018-12-13 17:23:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 17:24:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714645475 sessioncount 0
+2018-12-13 17:24:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 17:25:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714705506 sessioncount 0
+2018-12-13 17:25:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 17:26:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714765510 sessioncount 0
+2018-12-13 17:26:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2018-12-13 17:27:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714825512 sessioncount 0
+2018-12-13 17:27:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 17:28:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714885515 sessioncount 0
+2018-12-13 17:28:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0
+2018-12-13 17:29:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1544714945532 sessioncount 0
+2018-12-13 17:29:05 [ContainerBackgroundProcessor[StandardEngine[Tomcat]]] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 0 expired sessions: 0

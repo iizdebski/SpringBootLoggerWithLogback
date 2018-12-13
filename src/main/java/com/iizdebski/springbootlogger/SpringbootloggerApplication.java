@@ -24,6 +24,10 @@ public class SpringbootloggerApplication {
 
     @RequestMapping("/")
     public String welcome(){
-        return "Hello World";
+        String name="kk";
+        if(name.length()==2){
+            throw new RuntimeException("Opps exception has occured");
+        }
+        return "Hello World!!!";
     }
 }
